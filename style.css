@@ -1,8 +1,27 @@
-html {
-    /* Setting a base font size of 10px give us easier rem calculations
-       Info: 1rem === 10px, 1.5rem === 15px, 2rem === 20px and so forth
-     */
-    font-size: 10px;
+  /* title {
+    text-align: center;      
+    font: monospace;
+    color:crimson
+  } */
+
+  figure {
+    /* text-align: center;
+    margin-left: auto;
+    margin-right: auto; */
+    /* display: block; */
+    display: flex;
+    justify-content: center;
+    width: 10%;
+
   }
-  
-  
+/* 
+  figcaption{
+    display: inline-block;
+    border: 10px dotted gray;
+    margin: 10px;    
+  } */
+
+  h2 {
+color: crimson;
+
+  }
