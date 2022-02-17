@@ -1,0 +1,39 @@
+  @charset "UTF-8";
+  
+  .title {
+    text-align: center;
+    font-size: xx-large;   
+    font-family: Helvetica, sans-serif;
+    color:darkslategrey;
+    display: block;
+    margin-bottom: 5px darkslategrey;
+  }
+
+  .subtitle {
+    text-align: center;
+    color:darkslategrey;
+
+  }
+
+  .larger-image {
+    /* text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;*/    
+    display: flex;
+    justify-content: center;
+    width: 600px;
+  }
+
+
+  caption{
+    display: inline-block;
+    width: 700px;
+    border: 10px  gray;
+    margin: 10px;    
+  }
+
+  h2 {
+color: crimson;
+
+  }
